@@ -28,3 +28,11 @@ body {
   margin-bottom: 16px;
   border-radius: 10px;
 }
+
+ul {
+ list-style-type: none;
+ padding-inline-start: 0%;
+}
+li {
+  margin-bottom: 10px;
+}
